@@ -1,5 +1,5 @@
 package mima;
-//随意添加一行注释
+//包名
 public class Decry extends Encry{
 	//缁ф壙Encry鐨勫睘鎬у拰鏂规硶
 	//閲嶅啓go鏂规硶
